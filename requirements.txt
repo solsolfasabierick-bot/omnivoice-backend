@@ -1,0 +1,5 @@
+echo fastapi>requirements.txt
+echo uvicorn>>requirements.txt
+echo groq>>requirements.txt
+echo google-genai>>requirements.txt
+echo python-multipart>>requirements.txt
